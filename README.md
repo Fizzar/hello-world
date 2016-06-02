@@ -1,2 +1,6 @@
 # hello-world
-This Repository was created for testing
+
+Olá Pessoal!
+Estou achando esta questão de versionamento essencial para os meus novos projetos.
+
+Git Hub!
